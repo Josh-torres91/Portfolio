@@ -1,0 +1,76 @@
+body{
+    background-color:  #151d2c;
+}
+
+nav a{
+    color: deepskyblue;
+}
+
+#current-link{
+    text-decoration: none
+}
+
+.uppercase{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+/*
+I chose to make the text uppercase
+and put a large font to have it stand 
+out and catch peoples' attention..
+*/
+
+
+img{
+    width: 1350px;
+    height: auto;
+    padding-left: 0px;
+}
+img-projects.html{
+    width: 1000px;
+    height: auto;
+}
+
+h1 {
+    border: 5px groove;
+    border-color: deepskyblue;
+    padding: 10px;
+    border-left-color: dodgerblue;
+    border-bottom-color: dodgerblue;
+    padding: 40px;
+    padding-left: auto;
+    margin: 8px;
+}
+
+h2 {
+    padding: 20px;
+    padding-left: 20px;
+    margin: 20px;
+    border: 5px groove;
+    border-color: deepskyblue;
+    border-left-color: dodgerblue;
+    border-bottom-color: dodgerblue;
+    
+}
+/*
+I chose to make all of the padding and
+margins the same for all links so that 
+they would be look consistent.
+*/
+
+p {
+    padding: 20px;
+    padding-top: auto;
+    padding-left: auto;
+    padding-bottom: auto;
+}
+
+h3 {
+    padding: 20px;
+    padding-left: 20px;
+    margin: 20px;
+    border: 5px groove;
+    border-color: deepskyblue;
+    border-left-color: dodgerblue;
+    border-bottom-color: dodgerblue;
+}
